@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "383722736454",
+    "project_id": "airostcar",
+    "storage_bucket": "airostcar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383722736454:android:5d9cf28efb4e2afc25f347",
+        "android_client_info": {
+          "package_name": "com.example.airost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383722736454-j870eobjn9ve32v5t4ior5d0g2n1ua6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7y5dpF8_DtQIiDJa5n8YucVHfuSqD-lA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383722736454-j870eobjn9ve32v5t4ior5d0g2n1ua6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
